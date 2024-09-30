@@ -35,7 +35,7 @@ namespace HelloWorldUWP
                 ContentDialog helloWorldDialog = new ContentDialog()
                 {
                     Title = "¡Hola mundo!",
-                    Content = "C# con el Framework .NET desde Visual Studio te manda un saludo. :)",
+                    Content = "C# con el Framework .NET desde Visual Studio te manda un saludo.  :)",
                     CloseButtonText = "OK"
                 };
 
